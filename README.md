@@ -16,6 +16,6 @@ const bruno = {
 }
 ```
 
-<h2>:dancers:</h2><em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludar <b> ¡estaré feliz de conocerte más!<b> :)</em>
+<em><b> :dancers: Me encanta conocer diferentes personas</b> así que si quieres saludar <b> ¡estaré encantado de conocerte!<b> :)</em>
 
 ---
