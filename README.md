@@ -12,7 +12,8 @@
 ```js
 const bruno = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native ,Redux, Node, Express.js, PostgreSQL, Sequelize, MongoDB, Styled-Components, Jest, Boostrap, SASS]
+  tools: [React, React Native ,Redux, Node, Express.js, PostgreSQL, Sequelize, MongoDB, JWT, Jest],
+  styles: [Boostrap, Sass, module.css]
 }
 ```
 
