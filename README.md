@@ -13,7 +13,7 @@
 const bruno = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, React Native ,Redux, Node, Express.js, PostgreSQL, Sequelize, MongoDB, JWT, Jest],
-  styles: [Boostrap, Sass, Css Module]
+  styles: [Boostrap, Sass, Less, Css Module]
 }
 ```
 
