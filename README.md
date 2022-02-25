@@ -12,7 +12,7 @@
 ```js
 const bruno = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native ,Redux, Node, Styled-Components, Jest]
+  tools: [React, React Native ,Redux, Node, Express.js, PostgreSQL, Sequelize, MongoDB, Styled-Components, Jest, Boostrap, SASS]
 }
 ```
 
