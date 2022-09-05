@@ -12,8 +12,9 @@
 ```js
 const bruno = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native ,Redux, Node, Express.js, PostgreSQL, Sequelize, MongoDB, JWT, Jest],
-  styles: [Boostrap, Sass, Less, Css Module]
+  tools: [React, Next.js, Prettier, Eslint, Husky, Redux, Node, Express.js, JWT],
+  dataBase: [SQL, NoSQL],
+  styles: [Boostrap, MaterialUI, Sass, Less, Css Modules]
 }
 ```
 
