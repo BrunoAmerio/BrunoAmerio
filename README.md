@@ -1,5 +1,5 @@
 <h2> Hola, soy Bruno Amerio! :man_technologist: </h2>
-<p><em>Full Stack Web Developer</em> <br/>
+<p><em>Javascript Developer</em> <br/>
 <em>Graduado en <a href="https://www.soyhenry.com/">Soy Henry </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 
@@ -10,8 +10,8 @@
 
 ```js
 const bruno = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Next.js, Prettier, Eslint, Husky, Redux, Node, Express.js, JWT],
+  code: [Javascript],
+  tools: [React, Next, Prettier, Eslint, Husky, Redux, Node, Express, JWT],
   dataBase: [SQL, NoSQL],
   styles: [Boostrap, MaterialUI, Sass, Less, Css Modules]
 }
