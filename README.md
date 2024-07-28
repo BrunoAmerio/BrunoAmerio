@@ -13,10 +13,10 @@ const Bruno = {
   code: [Javascript],
   tools: {
     frontend: [React, Next, Vue, Nuxt, React Native, Zustand, Redux],
-    backend: [Express, Fsatify, Typescript, Web Sockets],
+    backend: [NestJS, Express, Fastify, Typescript, WebSockets],
   },
   dataBase: [MongoDB, PostgreSQL, Prisma],
-  styles: [ChakraUI, MaterialUI, Sass, Less, Css Modules]
+  styles: [ChakraUI, MaterialUI, Sass, Less]
 }
 ```
 
